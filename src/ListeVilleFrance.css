@@ -1,0 +1,21 @@
+.vf-villeUncheck{
+    text-align : center;
+    color: white;
+    padding: 30px;
+    margin-top:  20px;
+    background-color: #4134bd;
+    
+    
+}
+.vf-villeCheck{
+    text-align : center;
+    color: rgb(7, 30, 73);
+    padding: 30px;
+    margin-top:  20px;
+    background-color: #e7551b;
+    
+    
+}
+.vf-villeInput{
+    width: 100%;
+}
